@@ -1,0 +1,80 @@
+body{
+    background-color:skyblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1,h2{
+    color:rgb(148, 143, 0);
+    text-align: center;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px; 
+    justify-content: center;
+    align-items: center;
+    width: 15%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.subtitulos
+{
+    text-align: center;
+    color:darkgreen;
+}
+#descripcion
+{
+    color:sienna;
+}
+#yo
+{
+    background-color:tan;
+    text-align: center;
+}
+#Horario
+{
+    color: rgb(80, 96, 52);
+}
+#cuerpoTabla
+{
+    border-style: solid;
+    border-width: 1px;
+}
+ul{
+    color:peru;
+    margin: 0;
+    padding-left: 40px;
+    text-align: center;
+    list-style-position: inside; 
+    padding-left: 1em; 
+}
+p{
+    text-align: center;
+}
+ol{
+    text-align: center;
+    color: peru;
+    list-style-position: inside; 
+    padding-left: 1em; 
+  
+}
+table{
+    border-collapse: collapse;
+    background-color:rgb(145, 240, 140);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: darkcyan;
+    color: rgb(255, 255, 255);
+    font-style:oblique;
+    text-decoration-style: dotted;
+}
+tr{
+  color:rgb(139, 0, 74);
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
